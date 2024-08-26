@@ -1,0 +1,28 @@
+body {
+    background-color: crimson;
+    font-family: poppins;
+}
+
+h1,
+h2,
+h3 {
+    color: #fff;
+}
+
+p {
+    color: #fff;
+}
+
+ul {
+    color: #fff;
+    margin-left: 40%;
+}
+
+img {
+    border-radius: 10px;
+    margin-left: 35%;
+}
+
+a {
+    color: aqua;
+}
